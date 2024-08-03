@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a sample CRM application**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ai-ces](https://github.com/ai-ces)
 
