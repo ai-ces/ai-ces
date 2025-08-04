@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ces</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **~**
+- 🔭 I’m currently working on **AWS**
 
 - 🌱 I’m currently learning **DevOps**
 
