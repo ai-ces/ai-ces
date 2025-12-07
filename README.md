@@ -17,9 +17,4 @@
 <a href="https://medium.com/@aiccess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aiccess" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ai-ces&show_icons=true&locale=en&layout=compact" alt="ai-ces" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-ces&show_icons=true&locale=en" alt="ai-ces" /></p>
-
-
 
