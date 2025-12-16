@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ai-ces](https://github.com/ai-ces)
-
 - 📫 How to reach me **aiccess@protonmail.com**
 
 - ⚡ Fun fact **I don't know anything**
